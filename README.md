@@ -16,7 +16,7 @@ Detail-oriented BI Developer with years of experience specializing in data analy
 
 **Education**
 
-Bachelor of Science in Occupational Safety (GPA 2.8)  
+***Bachelor of Science in Occupational Safety*** *(GPA 2.8)*  
 University of Central Oklahoma  
 Graduated Spring 2018
 
