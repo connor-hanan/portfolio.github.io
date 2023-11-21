@@ -1,53 +1,75 @@
-# Resume
-**Connor Hanan**
+# Portfolio: Connor Hanan
 
-831 East Dr, Apartment 1,
-Oklahoma City, OK 73105  
+**Contact:**  
 Phone: (405)696-9263  
 Email: connorhanan@gmail.com
 
 ---
 
-**Objective**
+## Bio
 
-Detail-oriented BI Developer with years of experience specializing in data analytics, database maintenance, and high-level computing tasks. Proficient in SQL and PowerBI with a proven track record in data transformation using Python libraries such as pandas and numpy. Skilled in leveraging machine learning techniques with Python libraries such as scikit-learn. Seeking to contribute expertise in data analytics, data transformation, and machine learning to drive insightful solutions at [Company Name] in Oklahoma City.
+I am a detail-oriented BI Developer with a strong background in data analytics, database maintenance, and high-level computing tasks. Proficient in SQL, Python, and PowerBI. I excel in transforming data using Python libraries such as pandas and numpy, while also harnessing machine learning techniques with libraries like scikit-learn. My aim is to contribute my expertise in data analytics, transformation, and machine learning to drive impactful solutions.
 
 ---
 
+
 **Education**
 
-***Bachelor of Science in Occupational Safety*** *(GPA 2.8)*  
+***Bachelor of Science in Occupational Safety***
 University of Central Oklahoma  
 Graduated Spring 2018
 
 ---
 
-**Certifications**
+**Recent Certifications**
 
 - Google Advanced Data Analytics Certificate: [Coursera Certificate Link](https://coursera.org/share/e374e855fb76d7f05f6cfb37ff7f62b9)
 - LinkedIn Power BI Certification
 
 ---
 
-**Experience**
+**Portfolio Projects**
+
+- *Google Capstone*
+In this Python project, I aim to address employee retention concerns by delving into HR data analysis to construct predictive models capable of identifying factors influencing employee departure from a company. The project starts with data preprocessing and explores various features related to employee satisfaction, workload, tenure, accidents, promotions, departments, and salaries. Through visualization techniques like box plots, histograms, and heatmaps, I uncover insights into correlations between variables and their impact on employee attrition.
+
+I discovered key insights, such as:
+- **Satisfaction Levels:** Varying satisfaction levels affect attrition.
+- **Workload:** Project counts and working hours influence attrition.
+- **Promotions:** Analysis of promotions impact employee retention.
+- **Department and Salary:** Understanding compensation and career progression patterns.
+
+Moving on, I developed a logistic regression model to predict employee departure. However, the model's performance in identifying employees leaving the company wasn't satisfactory. It achieved a precision of 80%, recall of 82%, f1-score of 80%, and an accuracy of 82%, falling short of our desired predictive outcome. Therefore, I recommend exploring alternative approaches or further model development to enhance predictive capability for effective employee retention strategies.
+
+
+- *Netflix Analysis*
+Throughout this Python code, I conduct an exploration of a dataset from Netflix titles to glean insights and visualize trends. The process begins by loading the dataset and performing initial checks on its structure and content. 
+
+I clean the data by removing missing values and transforming certain columns to appropriate data types. I extract information from date columns, like the month and year of addition and release, to understand temporal patterns within the dataset.
+
+Key steps in the code include:
+
+- **Data Loading and Initial Inspection:** I load the Netflix dataset, print a summary of its contents, and perform an initial exploration.
+- **Data Cleaning:** I handle missing values and ensure the dataset is ready for analysis.
+- **Feature Engineering:** Extracting information from date columns and manipulating strings to gather insights.
+- **Data Analysis:** I conduct exploratory analysis, including counts based on release year, year added, and movie title lengths.
+- **Genre Exploration:** I analyze the genres of movies present in the dataset, identifying the top five movie genres on Netflix.
+
+The code concludes with a stem plot visualization showcasing the top five movie genres available on Netflix, providing a visual representation of their frequency within the dataset. This exploration aids in understanding Netflix's movie offerings and genre preferences among viewers.
+
+---
+## Experience
 
 **BI Systems Analyst**  
 *Schraad Sales and Marketing*  
 *July 2021 - Present*
 
-- Designed, coded, and tested SQL queries to extract essential insights for stakeholders.
-- Created comprehensive technical documentation detailing database structures and concepts.
+- Created and coded advanced DAX calculations for in-depth analysis, including dynamic ranking based on key metrics, and developed secondary tables for filtering and segmentation.
+- Designed, coded, and tested Python and SQL queries to extract essential insights for stakeholders.
+- Developed comprehensive technical documentation detailing code and database structures and concepts.
 - Utilized PowerBI and SQL for efficient data visualization and aggregation.
-- Leveraged Machine Learning for risk mitigation and correlation identification.
-
-**Environmental Health and Safety Specialist / Production Manager**  
-*Blumenthal Manufacturing Companies*  
-*April 2017 - May 2019*
-
-- Developed and executed environmental health and safety protocols.
-- Streamlined production processes to ensure safety compliance.
-- Managed safety protocols for industry standards compliance.
-- Implemented data-driven strategies for enhanced safety procedures.
+- Edited the semantic model using Tabular Editor, refining data models and relationships for optimized performance.
+- Conducted debugging of DAX code using tools like DAX Studio to directly query the DAX engine, ensuring code efficiency and accuracy.
 
 ---
 
@@ -65,20 +87,5 @@ Graduated Spring 2018
 - Microsoft Power BI
 - Data Visualization
 - Reporting & Analysis
-
----
-
-**References**
-
-Samantha (Work Colleague)  
-Email:  
-Phone:
-
-Casey (Work Colleague)  
-Phone:
-
-Dillion ()  
-Email:  
-Phone:
 
 ---
