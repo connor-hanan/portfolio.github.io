@@ -26,11 +26,14 @@ Graduated Spring 2018
 - Google Advanced Data Analytics Certificate: [Coursera Certificate Link](https://coursera.org/share/e374e855fb76d7f05f6cfb37ff7f62b9)
 - LinkedIn Power BI Certification
 
+To enhance clarity and distinguish between the two projects in your portfolio, you can include section headers or titles before each project description. Here's a revised version:
+
 ---
 
 **Portfolio Projects**
 
-- *Google Capstone*
+### ***Google Capstone: Employee Retention Analysis***
+
 In this Python project, I aim to address employee retention concerns by delving into HR data analysis to construct predictive models capable of identifying factors influencing employee departure from a company. The project starts with data preprocessing and explores various features related to employee satisfaction, workload, tenure, accidents, promotions, departments, and salaries. Through visualization techniques like box plots, histograms, and heatmaps, I uncover insights into correlations between variables and their impact on employee attrition.
 
 I discovered key insights, such as:
@@ -41,9 +44,9 @@ I discovered key insights, such as:
 
 Moving on, I developed a logistic regression model to predict employee departure. However, the model's performance in identifying employees leaving the company wasn't satisfactory. It achieved a precision of 80%, recall of 82%, f1-score of 80%, and an accuracy of 82%, falling short of our desired predictive outcome. Therefore, I recommend exploring alternative approaches or further model development to enhance predictive capability for effective employee retention strategies.
 
+### ***Netflix Analysis***
 
-- *Netflix Analysis*
-Throughout this Python code, I conduct an exploration of a dataset from Netflix titles to glean insights and visualize trends. The process begins by loading the dataset and performing initial checks on its structure and content. 
+Throughout this Python code, I conduct an exploration of a dataset from Netflix titles to glean insights and visualize trends. The process begins by loading the dataset and performing initial checks on its structure and content.
 
 I clean the data by removing missing values and transforming certain columns to appropriate data types. I extract information from date columns, like the month and year of addition and release, to understand temporal patterns within the dataset.
 
@@ -57,7 +60,9 @@ Key steps in the code include:
 
 The code concludes with a stem plot visualization showcasing the top five movie genres available on Netflix, providing a visual representation of their frequency within the dataset. This exploration aids in understanding Netflix's movie offerings and genre preferences among viewers.
 
----
+--- 
+
+By introducing distinct headers for each project, it becomes easier for readers to identify and differentiate between the individual projects in your portfolio.
 ## Experience
 
 **BI Systems Analyst**  
