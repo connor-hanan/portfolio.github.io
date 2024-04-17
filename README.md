@@ -11,5 +11,5 @@ I started to dabble in basic data analytics about a year before covid, and just 
 # Projects
 
 1. Employee Retention Analysis
-  - Description: This project aims to predict employee retention by analyzing differnet factors that could lead to possible depature.
-  - Resuts: Created a logitics regression model that had achieved a accuracy of 82%
+    - **Description:** This project aims to predict employee retention by analyzing differnet factors that could lead to possible depature.
+    - **Resuts:** Created a logitics regression model that had achieved a accuracy of 82%
