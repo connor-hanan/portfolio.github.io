@@ -11,8 +11,13 @@ I started to dabble in basic data analytics about a year before covid, and just 
 # Projects
 
 1. [Google Capstone](https://github.com/connor-hanan/google_capstone)
-    - **Description:** This project aims to predict employee retention by analyzing differnet factors that could lead to possible depature.
+    - **Description:** This project aims to predict employee retention by analyzing differnet factors that could lead to possible depature
     - **Resuts:** Created a logitics regression model that had achieved a accuracy of 82%
+    - Tools: Python
 2. [Diamond Price Prediction](https://github.com/connor-hanan/diamond_price_prediction)
    - **Description:** This Project I build a preditive model that's able to predict diamond prices based off the data provided with a high degree of accuracy
+    **Resuts:** Created a Random Forest Regressor model with a r2 score of 98% and an average difference of ~$2 
    - Tools: Python for EDA & predivtive model. Power BI for report intended for end user consumption
+3. [Sales Report](https://github.com/connor-hanan/sales_report_pbi)
+    - **Description:** Using a practice dataset, I create a Power BI report that segments customers based on a parameter (defined in Power BI)
+    - Tools: Power BI
